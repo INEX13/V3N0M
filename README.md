@@ -1,6 +1,8 @@
 
 # V3N0M C2
 
+"for educational purposes only"
+
 - This is a very simple "Command and Control" server using "Discord" written in c++
 
 
